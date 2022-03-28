@@ -1,0 +1,28 @@
+.heading{
+    font-size: 35px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(123, 173, 119);
+}
+.note{
+    font-size: 15px;
+    color: rgb(251, 253, 251);
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+width: 100%;
+color: rgb(255, 255, 255);
+background-color: rgb(54, 182, 43);
+text-align: center;
+line-height: 3;
+font-size: 20px;
+}
+body{
+    background-image: url("School_doodle.webp");
+}
+canvas{
+    background-color: rgb(160, 231, 160);
+    border: 5px solid black;
+    border-radius: 20px;
+}
